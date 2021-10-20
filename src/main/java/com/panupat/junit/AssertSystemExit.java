@@ -25,7 +25,7 @@ public class AssertSystemExit {
             assertEquals(
                     expectedStatusCode,
                     actualSystemExit,
-                    "Expected exit code" + expectedStatusCode + " but actual was " + actualSystemExit + "."
+                    "Expected exit code " + expectedStatusCode + " but actual was " + actualSystemExit + "."
             );
         }
     }
