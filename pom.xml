@@ -4,9 +4,33 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <name>AssertSystemExit</name>
     <groupId>io.github.mrpanupat</groupId>
     <artifactId>junit.assertSystemExit</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <url>https://github.com/mrpanupat/AssertSystemExit</url>
+    <description>
+        The AssertSystemExit is the library for junit 5 to assert System.exit() code.
+    </description>
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <id>panupat</id>
+            <name>Panupat pattararuangtawee</name>
+            <email>mrpanupat@gmail.com</email>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>+7</timezone>
+        </developer>
+    </developers>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
