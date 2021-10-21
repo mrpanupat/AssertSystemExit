@@ -5,7 +5,7 @@
     <name>AssertSystemExit</name>
     <groupId>io.github.mrpanupat</groupId>
     <artifactId>junit.assertSystemExit</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <url>https://github.com/mrpanupat/AssertSystemExit</url>
     <description>
@@ -68,7 +68,7 @@
         <connection>scm:git:git://github.com/mrpanupat/AssertSystemExit.git</connection>
         <developerConnection>scm:git:git@github.com:mrpanupat/AssertSystemExit.git</developerConnection>
         <url>https://github.com/dexecutor/dependent-tasks-executor</url>
-        <tag>junit.assertSystemExit-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
